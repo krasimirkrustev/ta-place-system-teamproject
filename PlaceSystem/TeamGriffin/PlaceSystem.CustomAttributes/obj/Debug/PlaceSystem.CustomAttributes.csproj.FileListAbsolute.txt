@@ -1,0 +1,5 @@
+D:\Working\Telerik Academy Projects\PlaceSystem\TeamGriffin\PlaceSystem.CustomAttributes\bin\Debug\PlaceSystem.CustomAttributes.dll
+D:\Working\Telerik Academy Projects\PlaceSystem\TeamGriffin\PlaceSystem.CustomAttributes\bin\Debug\PlaceSystem.CustomAttributes.pdb
+D:\Working\Telerik Academy Projects\PlaceSystem\TeamGriffin\PlaceSystem.CustomAttributes\obj\Debug\PlaceSystem.CustomAttributes.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\PlaceSystem\TeamGriffin\PlaceSystem.CustomAttributes\obj\Debug\PlaceSystem.CustomAttributes.dll
+D:\Working\Telerik Academy Projects\PlaceSystem\TeamGriffin\PlaceSystem.CustomAttributes\obj\Debug\PlaceSystem.CustomAttributes.pdb
